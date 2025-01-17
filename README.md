@@ -1,0 +1,1 @@
+i did a mistake here by commiting all the fies before so it tracked and .txt files could be ignored by .gitignore file and also commiting in the master branch before and because of that i could not push to a new branch feature i wanted
